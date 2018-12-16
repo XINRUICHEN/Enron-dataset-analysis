@@ -1,0 +1,14 @@
+(lp0
+S'poi'
+p1
+aS'exercised_stock_options'
+p2
+aS'total_stock_value'
+p3
+aS'salary'
+p4
+aS'deferred_income'
+p5
+aS'expenses'
+p6
+a.
